@@ -36,7 +36,6 @@ This project focuses on predicting customer churn using a real-world telecommuni
   - `PaperlessBilling`
   - `StreamingTV`
   - `InternetService`
-- Some features (like `Gender` or `PhoneService`) appeared insignificant in EDA, but proved important in modeling — highlighting the importance of combining EDA with model-based analysis.
 
 ## 📦 Tools Used
 - Python (Jupyter Notebook)
@@ -47,3 +46,5 @@ This project focuses on predicting customer churn using a real-world telecommuni
 ## ✨ Author
 Created by Nurliana  
 As part of the **DQLab Data Science Learning Program**
+
+## 📁 File 
